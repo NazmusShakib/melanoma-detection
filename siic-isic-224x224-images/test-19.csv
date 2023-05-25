@@ -1,0 +1,20 @@
+image_name,patient_id,sex,age_approx,anatom_site_general_challenge
+ISIC_0052060,IP_3579794,male,70,
+ISIC_0052349,IP_7782715,male,40,lower extremity
+ISIC_0058510,IP_7960270,female,55,torso
+ISIC_0073313,IP_6375035,female,50,torso
+ISIC_0073502,IP_0589375,female,45,lower extremity
+ISIC_0074618,IP_4438996,male,50,lower extremity
+ISIC_0076801,IP_3110660,male,45,upper extremity
+ISIC_0077586,IP_8578442,male,50,lower extremity
+ISIC_0082004,IP_0817448,female,45,torso
+ISIC_0085332,IP_7899071,male,40,torso
+ISIC_0087243,IP_7746230,male,60,torso
+ISIC_0088167,IP_0581821,female,30,upper extremity
+ISIC_0089356,IP_8564532,female,65,torso
+ISIC_0090283,IP_9657527,male,55,head/neck
+ISIC_0092481,IP_4288676,female,55,lower extremity
+ISIC_0095455,IP_2849250,female,40,lower extremity
+ISIC_0095790,IP_9918026,male,65,torso
+ISIC_0097719,IP_3331830,male,45,torso
+ISIC_0099348,IP_4403761,female,45,upper extremity
